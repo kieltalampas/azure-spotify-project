@@ -1,0 +1,9 @@
+{
+	"name": "adfazurespotify",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a3d952d-b885-4c51-8bab-fdd56b82415c",
+		"tenantId": "6c8595cd-441d-4f45-99fa-e565a25a3527"
+	}
+}
